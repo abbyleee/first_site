@@ -1,0 +1,48 @@
+body {
+    background-color: #C7FFC7;
+}
+
+nav {
+    border: 2px solid black;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+nav a {
+    background-color: yellow;
+    padding: 5px;
+    margin: 20px;
+}
+
+a {
+    text-align: underline;
+    border: solid blue;
+}
+
+
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+h2 {
+    font-size: 20px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h3 {
+    font-size: 20px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p {
+    line-height: 30px;
+}
